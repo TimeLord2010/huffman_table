@@ -1,5 +1,5 @@
 name: huffman_table
-description: A starting point for Dart libraries or applications.
+description: Implements Huffman coding for data compression, providing methods to encode and decode data using frequency-based tree structures.
 version: 1.0.0
 repository: https://github.com/TimeLord2010/huffman_table
 
